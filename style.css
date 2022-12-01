@@ -569,7 +569,7 @@ border-bottom:1px solid #919191;
         display: flex;
         position: absolute;
         left: 90px;
-    margin-top: 450px
+        qmargin-top: 450px;
         vertical-align: baseline;
         z-index: 13;
     }
